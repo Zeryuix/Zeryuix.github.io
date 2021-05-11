@@ -252,9 +252,9 @@
 /* ========= Light background menu - desktops and mobiles ========= */
 
 /* background colour */
-.menu-light { 
-	background-color: #fff;
-	transition: all .5s ease-in-out;
+.menu-light {
+    background-color: rgb(227,250,245);
+    transition: all .5s ease-in-out;
 }
 
 /* menu links */
